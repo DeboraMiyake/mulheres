@@ -1,0 +1,427 @@
+        @media screen and (max-width: 2048px)  {
+            .navbar{
+                text-align: center;
+                font-size: 16pt;
+            }
+            .programar img {
+                width: 750px;
+                margin-top: 20px;
+                margin: 0 auto;
+            }
+            .text {
+                width: 1000px;
+                font-size: 16pt; 
+                display: table;   
+                margin: 0 auto;
+                text-align: justify;
+            }
+            .programar{
+                padding: 25px;
+            }
+            .programartexto {           
+                margin-top: 60px;
+                text-align: justify;
+                margin: 0 auto;
+                width: 800px;
+                font-size: 16pt;
+            }
+            .container{
+                font-size: 16pt;
+            }
+            .card-text  {
+                font-size: 18pt;
+            }
+            .formulario{
+                font-size: 16pt;
+            }
+            .caixa{
+                width:350px;    
+                height:350px;
+            }
+            .mulherestexto {           
+                margin-top: 60px;
+                text-align: justify;
+                margin: 0 auto;
+                width: 70%;
+                font-size: 16pt;
+            }
+            .mulheres{
+                width: 80%;
+                margin:0 auto;
+                padding: 30px;
+            }
+            .title{
+                font-size: 18pt;
+                margin: 0 auto;
+            }
+            .rodape{
+                font-size: 18pt;
+                text-decoration: none;
+            }
+         
+        }
+        @media screen and (max-width: 1620px) {
+            .navbar{
+                text-align: center;
+            }
+            .programar img {
+                width: 550px;
+                padding-left: 35px;
+                margin-top: 20px;
+            }
+           .programar{
+                padding: 15px;
+            }
+           .programartexto {           
+                margin-top: 20px;
+                text-align: justify;
+                width: 600px;
+                padding-left: 20px;
+                font-size: 14pt;
+            }
+            .caixa{
+                width:350px;    
+                height:350px;
+            }
+            .mulherestexto {           
+                margin-top: 60px;
+                text-align: justify;
+                margin: 0 auto;
+                width: 60%;
+                font-size: 16pt;
+            }
+            .mulheres{
+                width: 100%;
+                margin:0 auto;
+                padding: 30px;
+            }
+
+        }
+
+        @media screen and (max-width: 1200px) {
+            .navbar{
+                text-align: center;
+            }
+            .programar img {
+                width: 450px;
+                padding-left: 35px;
+                margin-top: 20px;
+            }
+            .text {
+                width: 600px;
+                font-size: 14pt;
+                
+            }
+           .programar{
+                padding: 15px;
+            }
+           .programartexto {           
+                margin-top: 20px;
+                text-align: justify;
+                width: 500px;
+                padding-left: 20px;
+                font-size: 14pt;
+            }
+            .rodape{
+                text-align: center;
+                font-size: 12pt;
+            }
+            .container{
+                font-size: 12pt;
+            }
+            
+        }
+
+        @media screen and (max-width: 990px) {
+            .navbar{
+                text-align: center;
+            }
+            .img {
+                width: 450px;
+                height: 250px;
+                margin: 0 auto;
+                margin-top: 20px;
+            }
+            .programar {
+                float: left;    
+                display: table;
+            }   
+            .programar img {
+                width: 600px;
+                height: 350px;
+                margin: 0 auto;
+            }
+            .programartexto {
+                width: 100%;
+                margin-top: 130px;  
+                text-align: justify;
+                font-size: 12pt;
+            }
+            .card-deck {
+                float: left;
+                display: table;
+            }
+            .caixa{
+                width:400px;    
+                height:400px;
+                margin: 0 auto;
+            
+            }
+            .mulherestexto {           
+                margin-top: 60px;
+                text-align: justify;
+                margin: 0 auto;
+                width: 90%;
+                font-size: 16pt;
+            }
+            .mulheres{
+                width: 100%;
+                margin: 0 auto;
+                padding: 35px;
+            }
+           
+        }
+        
+        @media screen and (max-width: 770px) {
+            .navbar{
+                text-align: center;
+            }
+            .img {
+                width: 450px;
+                height: 250px;
+                margin: 0 auto;
+                margin-top: 20px;
+            }
+            .programar img {
+                width: 480px;
+                height: 350px;
+                margin: 0 auto;
+            }
+            .text {
+                width: 500px;
+                float: center;    
+                display: table;
+                margin: 0 auto;
+                font-size: 12pt;
+            }
+            .programartexto {
+                width: 100%;
+                margin-top: 130px;  
+                text-align: justify;
+                padding-left: 30px;
+                font-size: 12pt;
+            }
+            .card-deck {
+                float: left;
+                display: table;
+            }
+            .programar {
+                float: left;    
+                display: table;
+            }   
+            .rodape{
+                text-align: center;
+                font-size: 12pt;
+            }
+            .container{
+                font-size: 12pt;
+            }
+            .caixa{
+                width:400px;    
+                height:370px;
+                margin: 0 auto;
+            }
+            .mulherestexto {           
+                margin-top: 60px;
+                text-align: justify;
+                margin: 0 auto;
+                width: 90%;
+                font-size: 16pt;
+            }
+            .mulheres{
+                width: 100%;
+                margin: 0 auto;
+                padding: 35px;
+            }
+        }
+
+        @media screen and (max-width: 500px) {
+            .navbar{
+                text-align: center;
+            }
+            .img {
+                width: 310px;
+                height: 250px;
+                margin: 0 auto;
+                margin-top: 20px;
+            }
+            .programar img {
+                width: 320px;
+                height: 240px;
+                margin: 0 auto;
+            }
+            .text {
+                width: 370px;
+                float: center;    
+                display: table;
+                margin: 0 auto;
+                font-size: 11pt;
+            }
+            .programartexto {
+                width: 85%;
+                margin-top: 60px;  
+                text-align: justify;
+                padding-left: 30px;
+                font-size: 12pt;
+            }
+            .card-deck {
+                float: left;
+                display: table;
+            }
+            .programar {
+                float: left;    
+                display: table;
+            }   
+            .rodape{
+                text-align: center;
+            }
+            .caixa{
+                width:330px;    
+                height:280px;
+                margin: 0 auto;
+            }
+            .mulherestexto {           
+                margin-top: 60px;
+                text-align: justify;
+                margin: 0 auto;
+                width: 100%;
+                font-size: 12pt;
+            }
+            .mulheres{
+                width: 100%;
+                margin: 0 auto;
+                padding: 35px;
+            }
+            
+        }
+        @media screen and (max-width: 400px) {
+            .navbar{
+                text-align: center;
+            }
+            .img {
+                width: 320px;
+                height: 200px;
+                margin: 0 auto;
+                margin-top: 20px;
+            }
+            .programar img {
+                width: 320px;
+                height: 200px;
+                margin: 0 auto;
+            }
+            .text {
+                width: 300px;
+                float: center;    
+                display: table;
+                margin: 0 auto;
+                font-size: 11pt;
+            }
+            .programartexto {
+                width: 100%;
+                margin-top: 60px;  
+                text-align: justify;
+                padding-left: 30px;
+                font-size: 12pt;
+            }
+            .card-deck {
+                float: left;
+                display: table;
+            }
+            .programar {
+                float: left;    
+                display: table;
+            }   
+            .rodape{
+                text-align: center;
+            }
+            .caixa{
+                width:300px;    
+                height:280px;
+                margin: 0 auto;
+            }
+            .mulherestexto {           
+                margin-top: 60px;
+                text-align: justify;
+                margin: 0 auto;
+                width: 80%;
+                font-size: 12pt;
+            }
+            .mulheres{
+                width: 100%;
+                margin: 0 auto;
+                padding: 35px;
+            }
+            
+        }
+
+        .intro-2 {
+            background: url("../img/banner.jpg")no-repeat center center;
+            background-size: cover;
+        }
+        
+        .navbar {
+            background-color: transparent;
+        }
+        
+        .top-nav-collapse {
+           background-color: #c6c5f9;
+           background-image: linear-gradient(315deg, #c6c5f9 0%, #9795ef 74%);
+        }
+        
+        html,
+        body,
+        header,
+        .view {
+            height: 100%;
+        }
+        
+        #logo {
+            font-family: 'Sacramento', cursive;
+            font-size: 30px;
+        }
+        
+        footer {
+            background-color: #c6c5f9;
+            background-image: linear-gradient(315deg, #c6c5f9 0%, #9795ef 74%);
+        }
+        .programar {
+            background-color: hsla(280, 100%, 97%, 0.984);
+        }
+        
+        .botao {
+            background-color: #b2b0ff  ;
+            color: white;
+            border: 1px solid #9f9df1;
+        }
+        
+        .botao:hover {
+            background-color: #ededfc;
+            color: black;
+            border: 1px solid #9f9df1;
+            border-radius: 2px;
+        }
+        
+        .frase:hover{
+            color: #6a1b9a;
+            cursor: pointer;
+        }
+        .historia{
+            background: url("../img/historia.jpg") center;
+        }
+        .caixa{ 
+            border-radius: 21px 23px 141px 8px;
+            border: 5px double #dddcf7;
+        }
+        .modal-header{
+            background-color: #9492ff ;
+         }
